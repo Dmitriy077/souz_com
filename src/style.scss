@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Conv_RobotoRegular';
+}
+
+.wrapper {
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+input,
+ul,
+li,
+button {
+	outline: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: 0px solid black;
+}

@@ -1,0 +1,54 @@
+{
+  "_from": "webpack-icons-installer",
+  "_id": "webpack-icons-installer@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Ejiuv4LoRSm62K59mwDu30XOUkLsApt/OQ8DuLCiYmdg6ziibvwgW9k5HtjO8PGulfDaCRsGnovqLYMXE2h0eg==",
+  "_location": "/webpack-icons-installer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "webpack-icons-installer",
+    "name": "webpack-icons-installer",
+    "escapedName": "webpack-icons-installer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/webpack-icons-installer/-/webpack-icons-installer-2.0.0.tgz",
+  "_shasum": "74d910ec2ca038ef7a75ac6531f9a296e15c8828",
+  "_spec": "webpack-icons-installer",
+  "_where": "D:\\Учеба\\souz_com",
+  "author": {
+    "name": "Pawel Rafalko",
+    "email": "dev.rafalko@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "font-awesome": "^4.7.0",
+    "material-design-icons": "^3.0.1",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Install material-icons, bootstrap glyphicons and font-awesome icons with all necessary loaders at once",
+  "keywords": [
+    "webpack",
+    "icons",
+    "material-icons",
+    "glyphicons",
+    "bootstrap",
+    "font-awesome",
+    "pack"
+  ],
+  "license": "MIT",
+  "main": "icons.js",
+  "name": "webpack-icons-installer",
+  "version": "2.0.0"
+}

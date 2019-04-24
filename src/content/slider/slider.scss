@@ -1,0 +1,49 @@
+.slider_wrap {
+	min-width: 1140px;
+}
+.slick div {
+	height: 479px;
+}
+.slide-1 {
+	background: url(/img/slide-1.png) no-repeat;
+	background-size: 100%;
+}
+.slide-2 {
+	background: url(/img/slide-2.png) no-repeat;
+	background-size: 100%;
+}
+.slide-3 {
+	background: url(/img/slide-3.png) no-repeat;
+	background-size: 100%;
+}
+.slide-4 {
+	background: url(/img/slide-4.png) no-repeat;
+	background-size: 100%;
+}
+.slick {
+	position: relative;
+}
+.slick-dots {
+	position: absolute;
+	top: 28%;
+	right: 6.5%;
+}
+.slick button {
+	width: 40px;
+	height: 40px;
+	border-radius: 50px;
+	background-color: white;
+}
+.slick li {
+	padding-bottom: 10px;
+}
+.slick button:hover{
+	background-color: #18C584;
+	color: white;
+}
+.slick button[aria-selected=true] {
+	color: #18C584;
+}
+.slick .slick_text_button {
+	padding: 5px 10px;
+}
